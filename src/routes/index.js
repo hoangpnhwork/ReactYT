@@ -1,5 +1,5 @@
 //Layouts
-import {ChannelLayout} from '~/components/Layout/';
+import {ChannelLayout} from '~/components/Layouts/';
 //Pages
 import Home from '~/pages/Home';
 import Subscribe from '~/pages/Subcribe';
